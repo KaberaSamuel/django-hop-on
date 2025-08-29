@@ -1,4 +1,4 @@
-#!/home/sam/projects/django-hop-on/venv/bin/python
+#!/home/sam/projects/django-hop-on/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
